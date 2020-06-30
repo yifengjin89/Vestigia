@@ -2,6 +2,9 @@
 
 ## PROJECT NAME: VESTIGIA
 
+# Description:
+Used python program to design an application to keep track of the user’s job applications. This application is a social media platform that helps keep track of a user's application status during the hiring process as well as enables them to share the details of these jobs with other users. Each user has their own profile where they can track the jobs they applied for and manually edit each position block with an updated application status as needed. Using this software, users can track their job application status in a fun and creative way that lets them share the process with others.
+
 1. Clone this repository 
 
 2. From command line cd Vestigia
